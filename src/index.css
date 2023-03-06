@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.text_header {
+  color: white;
+  font-weight: bold;
+}
+
+.text {
+  color: rgb(245, 234, 189)
+}
+
+.text_white {
+  color: white
+}
+
+#root {
+	min-height: 100vh;
+}
+
+.App {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}

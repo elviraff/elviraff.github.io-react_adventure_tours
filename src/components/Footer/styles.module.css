@@ -1,0 +1,27 @@
+.footer {
+    height: 7vh;
+
+    background-color: rgb(57, 47, 33);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 5px 10px 10px 20px;
+   flex-shrink: 0;
+}
+
+.svg {
+    height: 20px;
+    width: 20px;
+}
+
+.contact_block {
+    display: flex;
+}
+
+.contact_text {
+    margin-left: 10px;
+}
+
+.header {
+    font-weight: bolder;
+}

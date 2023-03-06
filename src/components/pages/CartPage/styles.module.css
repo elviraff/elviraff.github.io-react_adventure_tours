@@ -1,0 +1,20 @@
+.text {
+    font-size: larger;
+}
+
+.root {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+}
+
+.header_big {
+    margin: 0 0 10px 0;
+    padding: 0 0;
+    font-size:x-large;
+    font-weight: bold;
+}
+
+.services:not(:last-child) {
+    margin-bottom: 20px;
+}

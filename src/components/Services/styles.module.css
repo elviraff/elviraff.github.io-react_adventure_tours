@@ -1,0 +1,33 @@
+.root {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+   margin-bottom: 20px;
+}
+
+.dish:not(:last-child) {
+    margin-bottom: 10px;
+}
+.root {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0;
+}
+
+.title {
+   margin-bottom: 20px;
+}
+
+.services:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.text_header {
+    color: white;
+    margin: 0 0 10px 0;
+    padding: 0 0;
+    font-size:x-large;
+    font-weight: bold;
+  }

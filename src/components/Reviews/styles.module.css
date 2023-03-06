@@ -1,0 +1,28 @@
+.root {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+   margin-bottom: 20px;
+}
+
+.review:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.reviewForm {
+    margin-top: 30px;
+}
+
+.review{
+    color: white
+}
+
+.text_header {
+    color: white;
+    margin: 0 0 10px 0;
+    padding: 0 0;
+    font-size:x-large;
+    font-weight: bold;
+  }

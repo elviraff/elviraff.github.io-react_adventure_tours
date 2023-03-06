@@ -1,0 +1,32 @@
+.root {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 5vh;
+    width: 100%;
+    background-color: rgb(57, 47, 33);
+    color: white;
+    font-weight: bold;
+}
+
+.links{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40px;
+}
+
+.link {
+    margin-left: 20px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: rgb(218, 173, 13);
+    text-decoration: none;
+
+}
+
+.active {
+    color: rgb(139, 225, 242);
+}

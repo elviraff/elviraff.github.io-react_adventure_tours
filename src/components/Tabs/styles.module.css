@@ -1,0 +1,19 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.searchInput {
+    margin-bottom: 10px;
+}
+
+.tab {
+    margin-right: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.tab:hover {
+    color: rgb(218, 173, 13)
+}

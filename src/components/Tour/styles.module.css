@@ -1,0 +1,46 @@
+
+.img{
+    height: 200px;
+    width: 80%;
+    border-radius: 0.5pc;
+}
+
+.root {
+    display: flex;
+    flex-direction: column;
+    margin: 0 0;
+    padding: 0 0;
+}
+.text_header {
+    color: white;
+    margin: 10px 0;
+    padding: 0 0;
+    font-size:x-large;
+    font-weight: bold;
+  }
+.mainContent {
+    margin-top: 10px;
+    width: 500px;
+}
+
+.active {
+    color: rgb(139, 225, 242);
+    cursor: default;
+}
+
+.nav_links {
+    text-decoration: none;
+    font-size:medium;
+    font-weight: bolder;
+}
+
+
+.ul{
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.list {
+    list-style-type: none;
+}
+

@@ -1,0 +1,25 @@
+.img {
+    height: 200px;
+    width: 500px;
+    background-size: 100% 100%;
+    border-radius: 4px;
+}
+
+.Capetown {
+    background-image: url(/public/img/Capetown.jpeg);
+}
+.AsiaPacific {
+    background-image: url(/public/img/AsiaPacific.jpeg);
+}
+
+.Asia {
+    background-image: url(/public/img/Asia.jpeg);
+}
+
+.Europe {
+    background-image: url(/public/img/Europe.jpeg);
+}
+
+.SouthAmerica {
+    background-image: url(/public/img/SouthAmerica.jpeg);
+}
