@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/elviraff.github.io-react_adventure_tours/static/css/main.bf1bd7f0.css",
+    "main.js": "/elviraff.github.io-react_adventure_tours/static/js/main.926b6795.js",
+    "static/js/787.b2625337.chunk.js": "/elviraff.github.io-react_adventure_tours/static/js/787.b2625337.chunk.js",
+    "static/media/SouthAmerica.jpeg": "/elviraff.github.io-react_adventure_tours/static/media/SouthAmerica.232c5fab7f0eb95abf57.jpeg",
+    "static/media/AsiaPacific.jpeg": "/elviraff.github.io-react_adventure_tours/static/media/AsiaPacific.dd2c0791f8729b59114e.jpeg",
+    "static/media/Capetown.jpeg": "/elviraff.github.io-react_adventure_tours/static/media/Capetown.309aad0c8ed6df4f10e3.jpeg",
+    "static/media/Asia.jpeg": "/elviraff.github.io-react_adventure_tours/static/media/Asia.b2cccafb6e78d06d3a5a.jpeg",
+    "static/media/Europe.jpeg": "/elviraff.github.io-react_adventure_tours/static/media/Europe.f115ba040c7b82598e48.jpeg",
+    "static/media/star-gold.svg": "/elviraff.github.io-react_adventure_tours/static/media/star-gold.127d0f4b7e6dca73ba30b22c88fdae6b.svg",
+    "static/media/star.svg": "/elviraff.github.io-react_adventure_tours/static/media/star.859851bf5a94b9da3a20e141de84b9dd.svg",
+    "static/media/phone.svg": "/elviraff.github.io-react_adventure_tours/static/media/phone.068460586a7a2cf5f9d0299a83f0b4bd.svg",
+    "index.html": "/elviraff.github.io-react_adventure_tours/index.html",
+    "static/media/icons-mail.svg": "/elviraff.github.io-react_adventure_tours/static/media/icons-mail.ed2c0453346e3ec2c903c4568a727f97.svg",
+    "main.bf1bd7f0.css.map": "/elviraff.github.io-react_adventure_tours/static/css/main.bf1bd7f0.css.map",
+    "main.926b6795.js.map": "/elviraff.github.io-react_adventure_tours/static/js/main.926b6795.js.map",
+    "787.b2625337.chunk.js.map": "/elviraff.github.io-react_adventure_tours/static/js/787.b2625337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf1bd7f0.css",
+    "static/js/main.926b6795.js"
+  ]
+}
