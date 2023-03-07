@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elviraff.github.io-react_adventure_tours/static/css/main.bb57403f.css",
-    "main.js": "/elviraff.github.io-react_adventure_tours/static/js/main.e3df9187.js",
+    "main.js": "/elviraff.github.io-react_adventure_tours/static/js/main.99bd802b.js",
     "static/js/787.b2625337.chunk.js": "/elviraff.github.io-react_adventure_tours/static/js/787.b2625337.chunk.js",
     "static/media/AsiaPacific.jpeg": "/elviraff.github.io-react_adventure_tours/static/media/AsiaPacific.d3626075b87e497b8eaa.jpeg",
     "static/media/SouthAmerica.jpeg": "/elviraff.github.io-react_adventure_tours/static/media/SouthAmerica.6c3645db372b50b23ad2.jpeg",
@@ -14,11 +14,11 @@
     "index.html": "/elviraff.github.io-react_adventure_tours/index.html",
     "static/media/icons-mail.svg": "/elviraff.github.io-react_adventure_tours/static/media/icons-mail.ed2c0453346e3ec2c903c4568a727f97.svg",
     "main.bb57403f.css.map": "/elviraff.github.io-react_adventure_tours/static/css/main.bb57403f.css.map",
-    "main.e3df9187.js.map": "/elviraff.github.io-react_adventure_tours/static/js/main.e3df9187.js.map",
+    "main.99bd802b.js.map": "/elviraff.github.io-react_adventure_tours/static/js/main.99bd802b.js.map",
     "787.b2625337.chunk.js.map": "/elviraff.github.io-react_adventure_tours/static/js/787.b2625337.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb57403f.css",
-    "static/js/main.e3df9187.js"
+    "static/js/main.99bd802b.js"
   ]
 }
