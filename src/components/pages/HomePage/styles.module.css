@@ -17,6 +17,15 @@
 .header_small {
     margin: 0 0;
     padding: 0 0;
-    font-size:large;
+    font-size:medium;
     font-weight: bold;
+}
+
+.btn {
+    margin-top: 30px;
+    padding: 10px 10px;
+    font-weight: bold;
+    font-size:medium;
+    cursor: pointer;
+    color: rgb(57, 47, 33)
 }

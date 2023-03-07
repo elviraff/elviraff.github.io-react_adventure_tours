@@ -1,7 +1,7 @@
 {
   "name": "test-react-app",
   "version": "0.1.0",
-  "homepage": "https://elviraff.github.io/elviraff.github.io-react_adventure_tours/",
+  "homepage": "https://elviraff.github.io/elviraff.github.io-react_adventure_tours",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",

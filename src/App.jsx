@@ -34,7 +34,7 @@ export const App = () => {
                                     </Route>
                                 </Route>
                                 <Route path='/cart' element = {<CartPage />} />
-                                <Route path = "*" element = {<NotFoundPage />}/>
+                                <Route path = "*" element = {<HomePage />}/>
                             </Routes>
                         </Layout>
                     </ThemeContextProvider>

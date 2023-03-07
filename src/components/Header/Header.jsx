@@ -21,7 +21,6 @@ export const Header = () => {
             >Adventure tours</NavLink>
             </div>
             <div className={styles.links}>
-            {/* <Link to={"/tours"} className={styles.link}>Tours</Link> */}
             <NavLink 
                 to={"/tours"} 
                 className={({isActive}) => classnames(styles.link, "text_white", {

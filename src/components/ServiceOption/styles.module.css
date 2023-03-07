@@ -3,4 +3,27 @@
 .root{
     margin: 0 0;
     padding: 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainInfo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn_block {
+    display: flex;
+}
+
+.btn {
+    font-weight: bold;
+}
+
+.count {
+    padding: 2px 2px;
+    margin: 1px 1px;
+    color:  rgb(245, 234, 189)
+
 }

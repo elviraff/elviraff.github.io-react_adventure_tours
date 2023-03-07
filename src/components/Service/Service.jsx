@@ -40,22 +40,19 @@ export const Service = ({serviceId, className}) => {
     return (
         <div className={classnames(styles.root, className)}>
             <div className={styles.layer}></div>
-            <div>
-                <p className={styles.header}> {service.name}
-                <Button onClick={decrement}>-</Button>
-                {count}
-                <Button onClick={increment}>+</Button>
-                {/* {(count>0) && service.adventures.map((option, index) => (
-                    <ServiceOption className={styles.service_option} key = {index} option = {option}/>
-                ))} */}
-
-                {service.adventures.map((option, index) => (
-                    <ServiceOption 
-                        className={styles[optionStyle]} 
-                        key = {index} option = {option}/>
-                ))}
-                </p>
+            <div className={styles.mainInfo}>
+                <div className={styles.header}> 
+                    {service.name}
+                </div>
+                <div className={styles.btn_block}>
+                    <Button className={styles.btn} onClick={decrement}>-</Button>
+                    <div className={styles.count}>{count}</div>
+                    <Button className={styles.btn} onClick={increment}>+</Button>
+                </div>
             </div>
+            {(count>0) && service.adventures.map((option, index) => (
+                        <ServiceOption className={styles.service_option} key = {index} option = {option}/>
+                    ))}
         </div>
     )
 }

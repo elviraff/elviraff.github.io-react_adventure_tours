@@ -11,7 +11,6 @@ import { Button } from "../../Button/Button"
 
 
 export const TourPage = () => {
-    // const [activeTourId, setActiveTourId] = useState(null)
 
     const isLoading = useSelector(selectIsTourLoading)
 
@@ -21,7 +20,7 @@ export const TourPage = () => {
     }, [])
 
     if (isLoading) {
-        return <div>Loading...</div>
+        return <div className="text_white">Loading...</div>
     }
     return (
         <div className={styles.root}>

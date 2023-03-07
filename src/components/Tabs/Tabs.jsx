@@ -14,10 +14,10 @@ export const Tabs = ({className}) => {
     return (
         <div className={classNames(styles.root, className)} >
             <input 
-            value = {search}
-            onChange={(event) => setSearch(event.target.value)} 
-            placeholder="Search..." 
-            className={styles.searchInput} />
+                value = {search}
+                onChange={(event) => setSearch(event.target.value)} 
+                placeholder="Search direction..." 
+                className={styles.searchInput} />
             <div>
             {tourIds.map((tourId) => (
                 <Tab 

@@ -9,13 +9,15 @@ import classnames from 'classnames'
 export const ServiceOption=({option, className})=> {
     const {count, decrement, increment} = useCount(1)
     return (
-        <div className={classnames(styles.root)}>
-            <p className={className}>
+        <div className={styles.mainInfo}>
+            <div className={className}>
                 {option}
-                <Button onClick = {decrement}>-</Button>
-                    {count}
-                <Button onClick = {increment}>+</Button> 
-            </p>
+            </div>
+            <div className={styles.btn_block}>
+                <Button className={styles.btn} onClick = {decrement}>-</Button>
+                <div className={styles.count}>{count}</div>
+                <Button className={styles.btn} onClick = {increment}>+</Button> 
+            </div>
         </div>
         
     )
